@@ -6,3 +6,5 @@
 Codeup 6043~6098
 
 notion 링크:https://www.notion.so/codeup-51-100-e3984601de554343bd80033b39b6ffef
+
+MacBook pro-2019 13//PyCharm CE//Notion//GitHUb Desktop
