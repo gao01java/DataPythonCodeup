@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="227a0c0a-9ff4-4d5a-a2af-b3b6f3ef0621" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Python1-100/6078.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Python1-100/6078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Python1-100/6079.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Python1-100/6079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Python1-100/6080.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Python1-100/6080.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,70 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Python.6078">
-    <configuration name="6073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6073.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6075.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6076.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6080">
     <configuration name="6077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,13 +76,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6079.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6079_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6079_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Python1-100" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Python1-100/6080.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6080" />
+        <item itemvalue="Python.6079_01" />
+        <item itemvalue="Python.6079" />
         <item itemvalue="Python.6078" />
         <item itemvalue="Python.6077" />
-        <item itemvalue="Python.6076" />
-        <item itemvalue="Python.6075" />
-        <item itemvalue="Python.6073" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +163,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="640" y="97" key="#Inspections" timestamp="1617149637190">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="640" y="97" key="#Inspections/0.25.1440.820@0.25.1440.820" timestamp="1617149637190" />
     <state x="340" y="117" key="#Notifications" timestamp="1616060749733">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
@@ -174,46 +179,50 @@
       <screen x="0" y="25" width="1440" height="820" />
     </state>
     <state x="455" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.820@0.25.1440.820" timestamp="1615971985328" />
-    <state width="661" height="196" key="GridCell.Tab.0.bottom" timestamp="1617100511293">
+    <state width="661" height="260" key="GridCell.Tab.0.bottom" timestamp="1617152804643">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="661" height="196" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617100511293" />
+    <state width="661" height="260" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617152804643" />
     <state width="651" height="196" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1617063072215" />
-    <state width="661" height="196" key="GridCell.Tab.0.center" timestamp="1617100511292">
+    <state width="661" height="260" key="GridCell.Tab.0.center" timestamp="1617152804642">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="661" height="196" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1617100511292" />
+    <state width="661" height="260" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1617152804642" />
     <state width="651" height="196" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1617063072213" />
-    <state width="661" height="196" key="GridCell.Tab.0.left" timestamp="1617100511292">
+    <state width="661" height="260" key="GridCell.Tab.0.left" timestamp="1617152804641">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="661" height="196" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1617100511292" />
+    <state width="661" height="260" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1617152804641" />
     <state width="651" height="196" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1617063072213" />
-    <state width="661" height="196" key="GridCell.Tab.0.right" timestamp="1617100511293">
+    <state width="661" height="260" key="GridCell.Tab.0.right" timestamp="1617152804643">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="661" height="196" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1617100511293" />
+    <state width="661" height="260" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1617152804643" />
     <state width="651" height="196" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1617063072214" />
-    <state width="651" height="260" key="GridCell.Tab.1.bottom" timestamp="1617020746500">
-      <screen x="0" y="25" width="1440" height="821" />
-    </state>
-    <state width="651" height="260" key="GridCell.Tab.1.bottom/0.25.1440.821@0.25.1440.821" timestamp="1617020746500" />
-    <state width="651" height="260" key="GridCell.Tab.1.center" timestamp="1617020746499">
-      <screen x="0" y="25" width="1440" height="821" />
-    </state>
-    <state width="651" height="260" key="GridCell.Tab.1.center/0.25.1440.821@0.25.1440.821" timestamp="1617020746499" />
-    <state width="651" height="260" key="GridCell.Tab.1.left" timestamp="1617020746499">
-      <screen x="0" y="25" width="1440" height="821" />
-    </state>
-    <state width="651" height="260" key="GridCell.Tab.1.left/0.25.1440.821@0.25.1440.821" timestamp="1617020746499" />
-    <state width="651" height="260" key="GridCell.Tab.1.right" timestamp="1617020746500">
-      <screen x="0" y="25" width="1440" height="821" />
-    </state>
-    <state width="651" height="260" key="GridCell.Tab.1.right/0.25.1440.821@0.25.1440.821" timestamp="1617020746500" />
-    <state x="397" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1617095436691">
+    <state width="661" height="260" key="GridCell.Tab.1.bottom" timestamp="1617152804644">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1617095436691" />
+    <state width="661" height="260" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617152804644" />
+    <state width="651" height="260" key="GridCell.Tab.1.bottom/0.25.1440.821@0.25.1440.821" timestamp="1617020746500" />
+    <state width="661" height="260" key="GridCell.Tab.1.center" timestamp="1617152804644">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="661" height="260" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1617152804644" />
+    <state width="651" height="260" key="GridCell.Tab.1.center/0.25.1440.821@0.25.1440.821" timestamp="1617020746499" />
+    <state width="661" height="260" key="GridCell.Tab.1.left" timestamp="1617152804644">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="661" height="260" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1617152804644" />
+    <state width="651" height="260" key="GridCell.Tab.1.left/0.25.1440.821@0.25.1440.821" timestamp="1617020746499" />
+    <state width="661" height="260" key="GridCell.Tab.1.right" timestamp="1617152804644">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="661" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1617152804644" />
+    <state width="651" height="260" key="GridCell.Tab.1.right/0.25.1440.821@0.25.1440.821" timestamp="1617020746500" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1617148714814">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1617148714814" />
     <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.821@0.25.1440.821" timestamp="1617062752430" />
     <state x="769" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1617076401809">
       <screen x="0" y="25" width="1440" height="820" />

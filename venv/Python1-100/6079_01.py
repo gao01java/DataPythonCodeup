@@ -1,4 +1,5 @@
 
+
 a=0
 b=0
 
@@ -8,15 +9,8 @@ while True:
     a+=1
     b+=a
 
-    if b>=c:
+
+
+    if b>=a:
         print(a)
         break
-
-
-
-
-
-
-
-
-
