@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="227a0c0a-9ff4-4d5a-a2af-b3b6f3ef0621" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Python1-100/6082.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Python1-100/6082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Python1-100/codeup_6087.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
